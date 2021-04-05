@@ -11,7 +11,7 @@
 <body>
 
 
-<h1 class="page-heading">GIT WORKFLOW WORKSHOW</h1>
+<h1 class="page-heading">GIT WORKFLOW WORKSHOP</h1>
 
 
 
